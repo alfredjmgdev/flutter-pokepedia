@@ -1,0 +1,34 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+ios/Runner.xcworkspace/
+android/.gradle/
+android/app/build/
+android/app/intermediates/
+android/app/outputs/
+android/local.properties
+android/.idea/
+*.iml
+
+# IDE specific
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+*.code-workspace
+
+# Miscellaneous
+*.log
+*.lock
+*.tmp
+*.swp
+*.DS_Store
