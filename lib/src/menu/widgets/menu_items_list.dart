@@ -57,9 +57,9 @@ class MenuItemsList extends StatelessWidget {
         ),
         const SizedBox(height: 16),
         const MenuButton(
-          text: 'Games',
-          route: '/games',
-          icon: Icons.games,
+          text: 'Regions',
+          route: '/regions',
+          icon: Icons.map,
         ),
       ],
     );
